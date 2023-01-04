@@ -1,11 +1,18 @@
 p {
-    color:blue;
+    color:black;
 }
 p.new {
     color:white;
     background-color: rgb(94, 49, 167);
     width: fit-content;
     padding: 30px;
+}
+p.different {
+    color:red;
+}
+
+p.different a {
+    text-decoration: none;
 }
 
 div.circle {
